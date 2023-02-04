@@ -1,0 +1,32 @@
+.bg-secondary {
+    background-color: #054b898a!important;
+}
+body {
+margin: 0;
+font-family: var(--bs-font-sans-serif);
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+color: #212529;
+background-color: #a8addf33;
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: transparent;
+}
+.update {
+    padding-left:40%;
+    
+}
+
+
+
+.new{
+   padding-top:8.5%;
+}
+.b{
+     background-color: #b6c5d5!important;
+     
+}
+a {
+color: #343a40;
+text-decoration: none;
+}
